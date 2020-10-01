@@ -1,0 +1,7 @@
+Paverdė	Vardas	ND1	ND2	ND3	ND4	ND5	Egzaminas
+Tomas	Kestauskas	5	1	10	9	8	9
+Kestauskas	Tomas	5	1	10	9	8	9
+Jonas	Juozauskas	5	1	10	9	8	9
+Monika	Lemanauskiveciuliauskiene	5	1	10	9	8	9
+Ane	LOL	5	1	10	9	8	9
+Vilnius	Tech	5	1	10	9	8	9
