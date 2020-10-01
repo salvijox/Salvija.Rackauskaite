@@ -1,0 +1,8 @@
+Vardas	        Pavarde	            Galutinis (Vid.) / Galutinis(Med.)
+--------------------------------------------------------------------------------------------
+Ane            	LOL                 	8.04
+Jonas          	Juozauskas          	8.04
+Kestauskas     	Tomas               	8.04
+Monika         	Lemanauskiveciuliauskiene	8.04
+Tomas          	Kestauskas          	8.04
+Vilnius        	Tech                	8.04
