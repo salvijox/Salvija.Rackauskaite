@@ -3,8 +3,8 @@ v.01
 
 # Efektyvumo tyrimas v.04:
 
-Failo su 1000 irasu nuskaitymo laikas: 0 \n
-Failo su 1000 irasu rusiavimas su sort funkcija laikas: 0 \n
+Failo su 1000 irasu nuskaitymo laikas: 0
+Failo su 1000 irasu rusiavimas su sort funkcija laikas: 0
 Failo su 1000 irasu dalijimo i dvi grupes laikas: 0
 Failo su 1000 irasu nelaimingu irasymo i faila laikas: 0
 Failo su 1000 irasu kietu su sort funkcija laikas: 0
@@ -26,4 +26,3 @@ Failo su 1000000 irasu rusiavimas su sort funkcija laikas: 179
 Failo su 1000000 irasu dalijimo i dvi grupes laikas: 17
 Failo su 1000000 irasu nelaimingu irasymo i faila laikas: 10
 Failo su 1000000 irasu kietu su sort funkcija laikas: 13
-
